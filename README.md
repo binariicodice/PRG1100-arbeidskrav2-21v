@@ -1,4 +1,4 @@
-<h1>PRG1100 Grunnleggende Programmering 2 - Arbeidskrav 2 - 21 - USN Ringerike</h1>
+<h1>PRG1100 Grunnleggende Programmering 2 - Arbeidskrav 2 - 2021 - USN Ringerike</h1>
   
 <h2>Oppgave: system for håndtering av eksamen ved USN</h2>
 Det skal programmeres et grafisk basert grensesnitt for applikasjonen og applikasjonen skal kjøre
