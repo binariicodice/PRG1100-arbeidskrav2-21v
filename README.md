@@ -16,30 +16,30 @@ Det er følgende krav til den nye applikasjonen:
 
 <h2>Preview:</h2>
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/mainMenu.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/mainMenu.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/studentRegistrering.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/studentRegistrering.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/studentOppdatering.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/studentOppdatering.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/studentSletting.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/studentSletting.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/studentUtskrift.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/studentUtskrift.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/mysqlEksamensresultat.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/mysqlEksamensresultat.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenRegistrering.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenRegistrering.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenOppdatering.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenOppdatering.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenSletting.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenSletting.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenUtskrift.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenUtskrift.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatRegistrering.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatRegistrering.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatOppdatering.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatOppdatering.png?raw=true)
 
-![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatSletting.png?raw=true)
+![alt text](https://github.com/bjurneiz/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatSletting.png?raw=true)
 
 ![alt text](https://github.com/binariicodice/PRG1100-arbeidskrav2-21v/blob/main/eksamenResultatUtskrift.png?raw=true)
